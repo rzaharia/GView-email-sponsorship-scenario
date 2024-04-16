@@ -1,0 +1,6 @@
+# GView-Screencast
+
+For the demo purposes, we have built a POC EML file. No actual malware or any piece of malicious code were used in this demo.
+
+* GView repository: https://github.com/gdt050579/GView
+* Video link: https://youtu.be/LpsvcgCkII8
