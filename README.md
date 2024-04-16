@@ -1,4 +1,4 @@
-# GView-Screencast
+# GView-Email-Sponsorship-Scenario
 
 For the demo purposes, we have built a POC EML file. No actual malware or any piece of malicious code were used in this demo.
 
